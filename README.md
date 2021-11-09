@@ -15,8 +15,8 @@
 
 ### 😄 Sobre mim:
 
-Sou Engenheiro Civil de formação, em transição para a carreira de desenvolvedor, com foco na área mobile. No momento estudando Flutter.
-Entusiasta de games, estudei sobre Unity por hobbie e gosto de por algumas ideias em prática 😅
+Sou Engenheiro Civil de formação, em transição para a carreira de desenvolvedor, com foco na área mobile, mas especificamente desenvolvimento com Flutter.
+Entusiasta de games, estudei sobre Unity por hobbie e gosto de por ideias em prática 😅
 
 ### 🌎 Me encontre nas Redes Sociais:
 
