@@ -15,7 +15,7 @@
 
 ### 😄 Sobre mim:
 
-Sou Engenheiro Civil de formação, estudando sobre desenvolvimento e programação, com foco na área mobile, aprendendo sobre desenvolvimento android nativo e híbrido.
+Sou Engenheiro Civil de formação, estudando sobre data e analytics, data sciente e machine learning.
 Entusiasta de games, estudei sobre Unity por hobbie e gosto de por ideias em prática 😅
 
 ### 🌎 Me encontre nas Redes Sociais:
